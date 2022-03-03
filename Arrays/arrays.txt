@@ -16,7 +16,7 @@
 16). How to find sub array with maximum sum in an array of positive and negative number
 17). Write a program to find length of longest consecutive sequence in array of integers
 18). Given an array of of size n and a number k, find all elements that appear more than n/k times?
-19). reverse array in place
+19). reverse array in place // 
 20). Sort binary array // 
 21). Sort an array in wave form 
 22). Kth missing element in array

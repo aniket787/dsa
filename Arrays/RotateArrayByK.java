@@ -32,7 +32,7 @@ class Solution {
         }
     }
 }    
-  
+
 
   // for right rotate
 
