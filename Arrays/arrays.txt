@@ -28,3 +28,4 @@
 28). three sum 
 29). Lexicographical order
 30). Move zeroes 
+31). kadanes algo
