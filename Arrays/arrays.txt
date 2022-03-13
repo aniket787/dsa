@@ -1,7 +1,7 @@
-1). How to find the missing number in integer array of 1 to 100?
-2). Find/remove duplicate number
-3). Largest and small element in unsorted array
-4). Find pairs whose sum is equal to given target
+1). reverse array in place //
+2).Sort binary array //
+3). Move zeroes //
+4).Rotate array left/right // 
 5). Find repeated numbers
 6). Sort array using QuickSort
 7). Intersection of two arrays
@@ -16,16 +16,16 @@
 16). How to find sub array with maximum sum in an array of positive and negative number
 17). Write a program to find length of longest consecutive sequence in array of integers
 18). Given an array of of size n and a number k, find all elements that appear more than n/k times?
-19). reverse array in place // 
-20). Sort binary array // 
+19).  How to find the missing number in integer array of 1 to 100?
+20). Find/remove duplicate number
 21). Sort an array in wave form 
 22). Kth missing element in array
 23). Majority element 
 24). Leaders in array
-25). Rotate array left/right
+25). Find pairs whose sum is equal to given target  
 26). First and Last position of an element in sorted array
 27). Two sum
 28). three sum 
 29). Lexicographical order
-30). Move zeroes //
+30). Largest and small element in unsorted array
 31). kadanes algo
