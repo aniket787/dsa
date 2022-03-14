@@ -2,7 +2,7 @@
 2).Sort binary array //
 3). Move zeroes //
 4).Rotate array left/right // 
-5). Find repeated numbers
+5).First and Last position of an element in sorted array
 6). Sort array using QuickSort
 7). Intersection of two arrays
 8). There is an array with every element repeated twice except one. Find that element
@@ -23,7 +23,7 @@
 23). Majority element 
 24). Leaders in array
 25). Find pairs whose sum is equal to given target  
-26). First and Last position of an element in sorted array
+26). Find repeated numbers  
 27). Two sum
 28). three sum 
 29). Lexicographical order
