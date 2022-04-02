@@ -16,7 +16,7 @@
 16). How to find sub array with maximum sum in an array of positive and negative number
 17). Write a program to find length of longest consecutive sequence in array of integers
 18). Given an array of of size n and a number k, find all elements that appear more than n/k times?
-19).  How to find the missing number in integer array of 1 to 100?
+19). How to find the missing number in integer array of 1 to 100?
 20). Find/remove duplicate number
 21). Sort an array in wave form 
 22). Kth missing element in array
@@ -29,3 +29,7 @@
 29). Lexicographical order
 30). Largest and small element in unsorted array
 31). kadanes algo
+32). Search insert position
+33). Maximum Subarray
+34). Count primes
+35). Find first/second/third largest element
