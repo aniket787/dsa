@@ -3,7 +3,7 @@
 3). Move zeroes //
 4).Rotate array left/right // 
 5).First and Last position of an element in sorted array //
-6). Sort array using QuickSort
+6). Container With Most Water //
 7). Intersection of two arrays
 8). There is an array with every element repeated twice except one. Find that element
 9). Find Kth smallest / Largest in unsorted array
@@ -33,4 +33,4 @@
 33). Maximum Subarray
 34). Count primes
 35). Find first/second/third largest element
-36). Container With Most Water
+36). Sort array using QuickSort
